@@ -12,9 +12,9 @@ Weeks 2, 3, and 4. Week 1 not uploades because its an own custom search of diffe
 (this part of the hole couse was, maybe, the most difficult for me so the average marks if arrount 80%)
 
 ### Course 3 - Applied Machine Learning in Python
-Weeks 1, 2, 3, and 4 but without quizzes
+Weeks 1, 2, 3 and 4 but without quizzes
 
 ### Course 4 - Applied Text Mining in Python
-
+Weeks 1, 2, 3 and 4 but without quizzes
 
 ### Course 5 - Applied Social Network Analysis in Python
