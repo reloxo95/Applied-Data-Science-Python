@@ -16,5 +16,5 @@ Weeks 1, 2, 3 and 4 but without quizzes
 
 ### Course 4 - Applied Text Mining in Python
 Weeks 1, 2, 3 and 4 but without quizzes
-
 ### Course 5 - Applied Social Network Analysis in Python
+Weeks 1, 2, 3 and 4 but without quizzes
